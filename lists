@@ -2,5 +2,9 @@
  {
  "Key" : "FB",
  "Value": "FB-SubNet-List"
+ },
+ {
+ "Key" : "rutracker.org",
+ "Value": "rutracker-SubNet-List"
  }
 ]
